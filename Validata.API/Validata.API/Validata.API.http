@@ -1,0 +1,6 @@
+@Validata.API_HostAddress = http://localhost:5226
+
+GET {{Validata.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
